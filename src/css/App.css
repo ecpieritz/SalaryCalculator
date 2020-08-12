@@ -1,0 +1,33 @@
+body{
+   background: #b4f1d5;
+}
+
+h1{
+   font-family: fantasy;
+}
+
+.input-field label {
+   color: #02743f !important;
+}
+
+.input-field input[type='text']:focus+label {
+   color: #27ac6e !important;
+}
+
+.input-field input[type='text']:focus {
+   border-bottom: 1px solid #02743f !important;
+   box-shadow: 0 1px 0 0 #02743f !important;
+}
+
+.input-field input[type='text'].valid {
+   border-bottom: 1px solid #02743f !important;
+   box-shadow: 0 1px 0 0 #02743f !important;
+}
+
+.input-field .prefix.active {
+   color: #02743f !important;
+}
+
+.progress {
+   height: 20px !important;
+}
