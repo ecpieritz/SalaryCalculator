@@ -1,4 +1,4 @@
-# :fast_forward: Salary Calculator :rewind:
+<h1 align = "center"> :fast_forward: Salary Calculator :rewind: </h1>
 
 ## 🖥 Preview
 <p align = "center">
