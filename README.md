@@ -46,7 +46,7 @@ const percentageFormatter = Intl.NumberFormat('pt-BR', { style: 'percent', maxim
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/SalaryCalculator.git
+git clone https://github.com/ecpieritz/SalaryCalculator.git
 
 #### Enter directory
 `cd SalaryCalculator`
