@@ -60,4 +60,4 @@ git clone https://github.com/ecpieritz/SalaryCalculator.git
 #### That done, open your browser and go to `https://localhost:3000/`
 
 ---
-Developed with 💙 by Emilyn C. Pieritz
+<p align = "right">Developed with 💙 by Emilyn C. Pieritz</p>
